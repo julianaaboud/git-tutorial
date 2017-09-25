@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+    background-color: #AFEEEE;
+}
+
+table, th, td{
+    background-color: #7FFFD4;
+    border: 1px static #000000;
+    margin: 0 auto;
+    text-align: center;
+
+.heart{
+    background-color: red;
+}
